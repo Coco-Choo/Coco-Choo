@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Coco!
 
 🎓 Master’s in Data Science @ Texas Tech University (Graduating May 2025)  
-📍 Currently based in the U.S. | Actively seeking entry to mid-level Data Scientist / Data Analyst / BI Developer roles
+📍 Currently based in the U.S. | Actively seeking entry to mid-level Data Scientist / Data Analyst / BI Developer roles  
 🧠 Passionate about turning messy data into meaningful insights and building scalable ML solutions
 
 ---
